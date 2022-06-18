@@ -1,0 +1,28 @@
+/* Setting color backgound in pages */
+
+:root {
+  background-color: var(--background,#F0C9EA);
+  font-family: 'Segoe UI', Arial, Helvetica, Arial, sans-serif;
+}
+
+/* Set color rose in orkut  */
+.orkut-font-color{
+  color: #E8258E;
+}
+
+.orkut-font-default{
+  color: rgb(47, 1, 80);
+  
+}
+
+.orkut-link {
+  text-decoration: none;
+  font-weight: 500;
+  color: rgb(29, 29, 29);
+  letter-spacing: -0.45px;
+}
+
+.orkut-button-bg {
+  background-color: #E8258E;
+  cursor: pointer;
+}
